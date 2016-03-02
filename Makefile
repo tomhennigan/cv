@@ -26,12 +26,14 @@ all:: html pdf
 
 gh-pages: html pdf
 	cp tex/cv.pdf html/.
-	tar -cf /tmp/cv.tar html/*
+	tar -cf /tmp/cv.tar html
 	git branch -D gh-pages || true
 	git checkout --orphan gh-pages
 	git rm -rf .
+	rm -rf tex
 	tar -xf /tmp/cv.tar
 	mv html/* .
-	rm -rf html
+	rm -rf html tex
 	git add *
 	git commit -m "Add HTML version of CV $$(date)."
+	git push -u origin gh-pages --force
