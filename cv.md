@@ -31,7 +31,7 @@ Publications
 2013
 :   Fiona Elizabeth Herring et al. “Place heat geometries”.
     Patent Application US 2013/0181993 A1 (US). Jan. 14, 2013.
-    URL: [https://www.google.com/patents/US20130181993](https://www.google.com/patents/US20130181993)
+    URL: <https://www.google.com/patents/US20130181993>
 
 Professional Experience
 =======================
@@ -44,9 +44,10 @@ Professional Experience
     that designs and builds out big data pipelines, highly available serving
     infrastructure and web based (GWT) analysis tools for Google Play
     developers.
-:   - [http://android-developers.blogspot.co.uk/2015/10/google-play-developer-console.html](http://android-developers.blogspot.co.uk/2015/10/google-play-developer-console.html)
-    - [http://android-developers.blogspot.co.uk/2015/05/empowering-successful-global-businesses.html](http://android-developers.blogspot.co.uk/2015/05/empowering-successful-global-businesses.html)
-    - [http://android-developers.blogspot.co.uk/2014/07/grow-with-google-play-scaled-publishing.html](http://android-developers.blogspot.co.uk/2014/07/grow-with-google-play-scaled-publishing.html)
+:   - <http://android-developers.blogspot.co.uk/2016/03/get-your-apps-and-games-ready-for-space.html>
+    - <http://android-developers.blogspot.co.uk/2015/10/google-play-developer-console.html>
+    - <http://android-developers.blogspot.co.uk/2015/05/empowering-successful-global-businesses.html>
+    - <http://android-developers.blogspot.co.uk/2014/07/grow-with-google-play-scaled-publishing.html>
 
 2012-2014
 :   **Developer at DueDil**
@@ -80,14 +81,13 @@ Professional Experience
     project resulted in a distributed system that was capable of detecting
     features for the entire globe, de-duping, indexing and storing for serving
     multiple times per day.
-:   Part of the project was submitted as a patent (US20130181993).
+:   Authored a patent <https://www.google.com/patents/US20130181993>.
 :   Key skills:
 :   - DBSCAN clustering algorithm.
     - FlumeJava (MapReduce) data processing pipelines.
-    - BigTable for data storage.
+    - Bigtable for data storage.
     - Protocol Buffers (protobuf).
     - Other proprietary internal Google technologies.
-
 
 2009-2012
 :   **Project Manager and Senior Developer at Buckle Consulting**
@@ -96,9 +96,9 @@ Professional Experience
     (authentication, content routing, mailing lists, user management and
     logging).
 :   Notable projects where I played a key role:
-:   - Built and maintained [Parcel Monkey](http://parcelmonkey.co.uk) through
+:   - Built and maintained <http://www.parcelmonkey.co.uk> through
       explosive initial growth to support £1m turnover.
-    - Built and scaled out [The Adventurists](http://theadventurists.com) to
+    - Built and scaled out <http://www.theadventurists.com> to
       facilitate high volume sign-up events and real time tracking of
       competitors.
     - Built non-emergency patient transport booking system (thetaxibooker.com)
@@ -125,7 +125,7 @@ Professional Experience
     professional programmers from such a young age. The project had millions of 
     downloads (see below) and was very successful, however it has recently 
     ended due to Microsoft shutting down the MSN messenger service.
-:   [http://sourceforge.net/projects/amsn/files/stats/timeline?dates=2006-01-01+to+2009-12-30](http://sourceforge.net/projects/amsn/files/stats/timeline?dates=2006-01-01+to+2009-12-30)
+:   <http://sourceforge.net/projects/amsn/files/stats/timeline?dates=2006-01-01+to+2009-12-30>
 :   Key skills:
 :   - TCL/TK/C desktop application development.
     - Identifying and fixing bugs in software written by others.
@@ -137,7 +137,7 @@ Honors and Awards
 
 2011
 :   **Google Scholar, Google EMEA**
-:   [http://googleblog.blogspot.com/2011/03/2011-european-scholarship-for-students.html](http://googleblog.blogspot.com/2011/03/2011-european-scholarship-for-students.html)
+:   <http://googleblog.blogspot.com/2011/03/2011-european-scholarship-for-students.html>
 :   This scholarship gives recognition to outstanding scientific contributions
     from students with disabilities who are pursuing university degrees in the
     field of computer science at a university in the European Union, Switzerland
