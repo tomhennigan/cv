@@ -1,5 +1,5 @@
 % TOM HENNIGAN
-% **Email:** [tomhennigan@gmail.com](mailto:tomhennigan@gmail.com) - **Mobile:** [+44-7595-539-980](tel:+447595539980)
+% **Email:** <tomhennigan@gmail.com> - **Mobile:** [+44-7595-539-980](tel:+447595539980)
 
 **I am a highly motivated young professional with proven experience working 
 with distributed systems and parallel programming techniques. I am a self 
