@@ -44,7 +44,8 @@ Professional Experience
     that designs and builds out big data pipelines, highly available serving
     infrastructure and web based (GWT) analysis tools for Google Play
     developers.
-:   - <http://android-developers.blogspot.co.uk/2016/03/get-your-apps-and-games-ready-for-space.html>
+:   - <http://android-developers.blogspot.co.uk/2016/05/whats-new-in-google-play-at-io-2016.html>
+    - <http://android-developers.blogspot.co.uk/2016/03/get-your-apps-and-games-ready-for-space.html>
     - <http://android-developers.blogspot.co.uk/2015/10/google-play-developer-console.html>
     - <http://android-developers.blogspot.co.uk/2015/05/empowering-successful-global-businesses.html>
     - <http://android-developers.blogspot.co.uk/2014/07/grow-with-google-play-scaled-publishing.html>
