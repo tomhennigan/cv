@@ -1,0 +1,41 @@
+5 March 2011
+
+                                                                  Tom Hennigan
+                                                                  Address 1
+                                                                  Address 2
+                                                                  City, Town
+                                                                  Postcode
+
+Bloomberg LP
+City Gate House
+39-45 Finsbury Square
+London, EC2A 1PQ
+
+Dear Sir or Madam,
+
+I am writing to apply for the Financial Software Developer position displayed on
+the careers section of your website. I have included my CV in addition to this
+letter that details all of my relevant experience and qualifications to date.
+
+I believe that I match all of your requirements for this position and that my
+personality, education, knowledge and experience make me an ideal candidate
+based on the following skills and strengths:
+
+  - I am attending a top 10 Russell Group University with an average over two
+    and a half years of 72% putting me in line for a first class degree.
+
+  - I have a strong knowledge of Unix and Linux systems as well as low level
+    programming in C. I also have a lot of experience in Java, with a 90.5%
+    average across the 2 Java programming modules at University.
+
+  - I have worked throughout my University career whilst at the same time
+    pursuing my passion for climbing. Combining these activities in conjunction
+    with my current average of a 1st class degree demonstrates my drive and
+    motivation to further myself both professionally and academically.
+
+If you require any further information or clarification please do not hesitate
+to contact me. I thank you for the opportunity to apply for this position, and
+look forward to receiving your response.
+
+Yours faithfully,
+Tom Hennigan
