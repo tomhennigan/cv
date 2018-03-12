@@ -10,7 +10,7 @@ and working on interesting personal or open source projects.**
 Education
 =========
 
-**2008-2013**
+**2008-2012**
 :   **First Class Hons MEng in Computer Science, University of Southampton.**
 
 2006-2008
