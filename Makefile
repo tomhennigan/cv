@@ -1,4 +1,7 @@
 
+DOCKER='docker run -v ${PWD}:/data -it --rm -w /data hiono/texlive'
+DOCKER=''
+
 all::
 
 html/index.html: cv.md html/head.html
@@ -11,14 +14,14 @@ tex/cv.tex: cv.md tex/template.tex
 	pandoc --standalone --template=tex/template.tex --from markdown --to latex -o $@ $<
 
 tex/cv.pdf: tex/cv.tex
-	# docker pull hiono/texlive:latest
-	docker run -v ${PWD}/tex:/data -it --rm -w /data hiono/texlive xelatex cv.tex
-	docker run -v ${PWD}/tex:/data -it --rm -w /data hiono/texlive xelatex cv.tex
-	docker run -v ${PWD}/tex:/data -it --rm -w /data hiono/texlive xelatex cv.tex
-	rm -f tex/cv.{aux,log,out,bcf}
+	xelatex tex/cv.tex
+	xelatex tex/cv.tex
+	xelatex tex/cv.tex
+	rm -f cv.{aux,log,out,bcf}
 
 clean::
-	rm -f tex/cv.{tex,aux,log,out,bcf,pdf}
+	rm -f tex/cv.tex
+	rm -f cv.aux cv.log cv.out cv.bcf cv.pdf
 
 html:: html/index.html
 pdf:: tex/cv.pdf
