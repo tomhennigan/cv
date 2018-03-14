@@ -28,7 +28,7 @@ pdf:: tex/cv.pdf
 all:: html pdf
 
 gh-pages: html pdf
-	cp tex/cv.pdf html/.
+	cp cv.pdf html/.
 	tar -cf /tmp/cv.tar html
 	git branch -D gh-pages || true
 	git checkout --orphan gh-pages
