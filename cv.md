@@ -1,11 +1,11 @@
 % TOM HENNIGAN
 % **Email:** <tomhennigan@gmail.com> - **Mobile:** [+44-7595-539-980](tel:+447595539980)
 
-**I am a highly motivated young professional with proven experience working 
-with distributed systems and parallel programming techniques. I am a self 
-starter, and programming is a passion as well as a career. I am constantly 
-looking to expand my knowledge by learning new programming languages, paradigms 
-and working on interesting personal or open source projects.**
+**I am a senior engineer with nearly 10 years professional software engineering
+experience. I have a track record of delivering high profile launches with deep
+technical contributions across the stack. I love to travel and have represented
+my company at major events and on site with partners. In my spare time I enjoy
+bouldering and learning new skills (current focus: deep learning).**
 
 Education
 =========
@@ -17,7 +17,7 @@ Education
 :   5 A-levels (3 A, 2 B), Dr Challoners Grammar School, United Kingdom.
 
 2003-2006
-:   12 GCSEs (5 A*, 4 A, 2 B), Dr Challoners Grammar School, United Kingdom.
+:   12 GCSEs (5 A\*, 4 A, 2 B), Dr Challoners Grammar School, United Kingdom.
 
 1999-2003
 :   Westminster Cathedral Choir School, United Kingdom.
@@ -28,6 +28,11 @@ Education
 Publications
 ============
 
+2017
+:   Kavita Kannan et al. “Device-based filtering of content items associated with mobile applications”.
+    Patent application US 2017/0055145 A1 (US). Feb 2, 2017.
+    URL: <https://www.google.com/patents/US20170055145A1>
+
 2013
 :   Fiona Elizabeth Herring et al. “Place heat geometries”.
     Patent Application US 2013/0181993 A1 (US). Jan. 14, 2013.
@@ -37,17 +42,64 @@ Professional Experience
 =======================
 
 2014-today
-:   **Software Engineer at Google**
-:   Full stack engineer building new business management tools, advanced
-    analytics and machine generated insights for Google Play developers. Mostly
-    working in Java (with some C++, JavaScript and Python) I am part of a team
-    that designs and builds out big data pipelines, highly available serving
-    infrastructure and web based (GWT) analysis tools for Google Play
-    developers.
-:   - <http://android-developers.blogspot.co.uk/2016/05/whats-new-in-google-play-at-io-2016.html>
+:   **Senior Software Engineer, Tech Lead at Google**
+:   Google Play is the primary app store for Android devices, delivering apps
+    and games to >2bn Android devices. I was the tech lead for a high profile
+    team in the London office, working on a number of core Google Play
+    initiatives. I led teams of up to 4 other engineers, working across PAs,
+    timezones and cross functionally with product, UX/UXR, legal, privacy and
+    leadership.
+:   During my time in Play I submitted >230k lines of Java to production,
+    spanning a diverse set of technologies such as batch and streaming
+    pipelines, metrics serving infrastructure, RPC servers, frontend web servers
+    and web UI (GWT, Angular and other frameworks).
+:   I represented Google at high profile events such as Google I/O and Playtime,
+    working directly with major partners and presenting my teams work to large
+    audiences.
+
+:   **2018**
+:   - Working on several high profile non-public projects launching at I/O 18.
+
+:   **2017**
+:   - Built out advanced subscription reporting in Play Console, including
+    multi year longitudinal analysis of subscriptions with cohortized retention
+    and churn reports.
+    - Rebuilt large core infrastucture components such as Play's earnings
+    reports.
+    - Presented at Google I/O (recap) in
+    [Korea](https://youtu.be/TagTjkk_czk?t=891),
+    [Japan](https://youtu.be/maCWndRMbzI?t=965) and held partner meetings at
+    Playtime in Berlin.
+    - Ramping up on AI/ML, attended ML "crash course" in Paris and weekly reading
+    group going through Hinton's Deep Learning Coursera course.
+    - Hosted intern scoping out new starategic area.
+    - <https://android-developers.googleblog.com/2017/05/make-more-money-with-subscriptions-on.html>
+    - <https://android-developers.googleblog.com/2017/05/whats-new-in-google-play-at-io-2017.html>
+    - <https://android-developers.googleblog.com/2017/01/manage-paid-orders-and-payments.html>
+
+:   **2016**
+:   - Integrated Google Play and Firebase, enabling data sharing (e.g. crash
+    events) between both products when developers linked their accounts.
+    - Rebuilt Play Apps merchant integration with Google payments APIs, built
+    entirely new order management functionality in Play console and built a new
+    team to maintain and extend this new Play product.
+    - Built a high profile April Fools joke in my 20% time :)
+    - <http://android-developers.blogspot.co.uk/2016/05/whats-new-in-google-play-at-io-2016.html>
     - <http://android-developers.blogspot.co.uk/2016/03/get-your-apps-and-games-ready-for-space.html>
+
+:   **2015**
+:   - Integrated Google Play and AdWords, allowing developers to purchase
+    Universal App Install Campaigns from the Play Console.
+    - Built closed funnel report for {visit, install, purchase, repeat purchase}
+    allowing developers for the first time to measure the performance of their
+    entire conversion funnel.
     - <http://android-developers.blogspot.co.uk/2015/10/google-play-developer-console.html>
     - <http://android-developers.blogspot.co.uk/2015/05/empowering-successful-global-businesses.html>
+
+:   **2014**
+:   - Built advanced revenue, orders, buyers and conversion analytics pipelines
+    and UI, working on novel solutions to simplify cohortized reports and enable
+    multi dimensional breakdowns.
     - <http://android-developers.blogspot.co.uk/2014/07/grow-with-google-play-scaled-publishing.html>
 
 2012-2014
@@ -61,7 +113,7 @@ Professional Experience
       (Jenkins, Hadoop, HDFS, Heritrix and Mesos)   orchestrated with Chef in
       Amazon EC2.
     - Implement the use of automated bidding on spot-instances for our batch
-      workload in Amazon EC2 (allowing 10x the   compute resource at the same
+      workload in Amazon EC2 (allowing 10x the compute resource at the same
       price compared to non-spot).
     - Implemented a high performance bulk loading strategy for importing and
       indexing relational data in Postgres (one of   the major databases used by
@@ -73,9 +125,9 @@ Professional Experience
       tera-scale dataset.
     - Implemented a multi-threaded, multi-process and distributed (via Hadoop)
       web scraper (used for one year while we built tooling and functionality
-      on top of Heritirix).
+      on top of Heritrix).
 
-2008-2010
+Summer 2011
 :   **Software Engineer Intern at Google**
 :   Worked in the Google Mobile Maps (GMM) team to design and implement an
     algorithm to detect boundaries for landmarks using location data. The
@@ -83,12 +135,6 @@ Professional Experience
     features for the entire globe, de-duping, indexing and storing for serving
     multiple times per day.
 :   Authored a patent <https://www.google.com/patents/US20130181993>.
-:   Key skills:
-:   - DBSCAN clustering algorithm.
-    - FlumeJava (MapReduce) data processing pipelines.
-    - Bigtable for data storage.
-    - Protocol Buffers (protobuf).
-    - Other proprietary internal Google technologies.
 
 2009-2012
 :   **Project Manager and Senior Developer at Buckle Consulting**
@@ -112,11 +158,6 @@ Professional Experience
     - Re-developed in-house CMS system used by 10+ contract developers,
       including functionality such as authentication, user management, content
       routing, mailing lists, content management (WYSIWIG) and logging.
-:   Key skills:
-:   - HTML5/CSS/JS front-end development.
-    - PHP back-end development.
-    - C/SH server side tooling.
-    - Working on site and remotely with clients.
 
 2006-2008
 :   **aMSN Project (Open Source)**
@@ -127,7 +168,7 @@ Professional Experience
     downloads (see below) and was very successful, however it has recently 
     ended due to Microsoft shutting down the MSN messenger service.
 :   <http://sourceforge.net/projects/amsn/files/stats/timeline?dates=2006-01-01+to+2009-12-30>
-:   Key skills:
+:   **Key skills:**
 :   - TCL/TK/C desktop application development.
     - Identifying and fixing bugs in software written by others.
     - Community management (actively involved in discussions forums).
@@ -151,62 +192,3 @@ Honors and Awards
 :   The Zepler scholarship is awarded to new students by the Electronics and 
     Computer Science school for outstanding A level results upon a successful 
     enrolment.
-
-Key Skills
-==========
-
-Hadoop
-:   I've been working with Hadoop for almost two years now. I have in depth 
-    experience with Hadoop version 0.20.2 as well as 1.0.3. I also have
-    extensive experience with the [MrJob](https://github.com/Yelp/mrjob)
-    framework, and have contributed some patches back to the project. I've also
-    worked on the operations side of Hadoop, working with an in house cluster,
-    as well as using EMR from Amazon.
-
-Java
-:   I learnt Java whilst at university and attained over 90% in the modules 
-    associated with Java programming as well as the Java based coursework for
-    the data structures and algorithms module. I worked almost exclusively in
-    Java whilst at Google.
-
-Python
-:   My work at DueDil has been almost exclusively in Python. I've worked mainly 
-    with Python 2.7, however I have some exposure to Python 3, as well as the 
-    challenges faced by software developed for 2.7 to support 3 as well.
-
-C
-:   I taught myself C at the age of 13. C has always been a passion of mine, 
-    however I've not written any C professionally for anything other than small 
-    internal tools. One of the more challenging C projects I've worked on was my 
-    own project to write an emulator for the
-    [Motorola 6803 microprocessor](https://github.com/tomhennigan/6803).
-
-Chef
-:   The infrastructure at DueDil is managed entirely by Chef. I help to run a
-    chef managed Hadoop cluster and surrounding infrastructure, as well as
-    writing cookbooks for other services we require.
-
-Postgres
-:   I have two years experience working with Postgres. One interesting use case
-    that I helped develop was a Postgres server tuned to bulk load hundreds of
-    gigabytes per evening as well as deliver read performance in excess of 100k
-    transactions per second at peak times
-
-MySQL
-:   I've worked with MySQL (version 5) as an application developer and system 
-    administrator. I've setup MySQL server in a shared hosting environment as
-    well as developed applications on top of existing MySQL deployments.
-
-Git
-:   My personal favourite version control system is Git (I also have experience 
-    working with SVN, CVS and Perforce.). I've found Git to be the best tool for 
-    the job in most cases whilst developing personal, professional and open
-    source  code. I've worked with (and enjoy) the 
-    [Git Flow](http://nvie.com/posts/a-successful-git-branching-model/).
-    branching model and have a fair amount of experience with 
-    [GitHub](https://github.com).
-
-AWS
-:   I have a lot of experience working with Amazon's elastic compute cloud (EC2) 
-    and simple storage service (S3). I've managed 100s of machines in EC2
-    pushing hundreds of gigabytes of data to and from S3 on a regular basis.
