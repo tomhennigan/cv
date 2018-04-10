@@ -41,7 +41,12 @@ Publications
 Professional Experience
 =======================
 
-2014-today
+2018-today
+:	**Senior Software Engineer, DeepMind**
+:	Working on the [TensorFlow](https://www.tensorflow.org/) team at
+	[DeepMind](https://deepmind.com/).
+
+2015-2018
 :   **Senior Software Engineer, Tech Lead at Google**
 :   Google Play is the primary app store for Android devices, delivering apps
     and games to >2bn Android devices. I was the tech lead for a high profile
@@ -58,7 +63,13 @@ Professional Experience
     audiences.
 
 :   **2018**
-:   - Working on several high profile non-public projects launching at I/O 18.
+:   - Built merchant integration for Subscribe with Google, allowing news
+    publishers to sell subcriptions using Google Play subscription SKUs on
+    surfaces such as AMP. 
+    - Helped migrate Google Play to be Merchant of Record for apps, in-app
+    products and subscriptions in the EEA.
+    - Working on several high profile non-public projects launching at I/O 18.
+    - <https://blog.google/topics/google-news-initiative/introducing-subscribe-google/>
 
 :   **2017**
 :   - Built out advanced subscription reporting in Play Console, including
@@ -192,3 +203,8 @@ Honors and Awards
 :   The Zepler scholarship is awarded to new students by the Electronics and 
     Computer Science school for outstanding A level results upon a successful 
     enrolment.
+
+References
+==========
+
+References avaialble upon request.
