@@ -1,5 +1,6 @@
 % TOM HENNIGAN
-% **Email:** <tomhennigan@gmail.com> - **Mobile:** [+44-7595-539-980](tel:+447595539980)
+% **Email:** <tomhennigan@gmail.com>
+% \today
 
 **I am a senior engineer with nearly 10 years professional software engineering
 experience. I have a track record of delivering high profile launches with deep
